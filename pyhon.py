@@ -9,4 +9,3 @@ elif 18 < x.tm_hour < 21 :
     print("Good evening.Sir!")
 else :
     print("It's night.Sir!")
-
